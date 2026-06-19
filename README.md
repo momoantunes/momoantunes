@@ -5,4 +5,4 @@ My name is Mônica Antunes, I'm a full stack developer, data analyst and also a 
 
 
 # You can find me online at: 
-- <a href="https://www.linkedin.com/in/monicacmbba/">Linkedin</a> where I display some of my achievments 
+- <a href="https://www.linkedin.com/in/monicacmbba/">Linkedin</a> where I display some of my achievs 
